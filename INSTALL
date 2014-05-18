@@ -1,0 +1,9 @@
+Building avcoin
+
+See doc/readme-qt.rst for instructions on building avcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of avcoin.
+
+See doc/build-*.txt for instructions on building avcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of avcoin.
